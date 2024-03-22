@@ -1,0 +1,2 @@
+# bus_reservationsystem
+A C-based bus reservation system allows users to book tickets on various routes by managing bus information, seat availability, and passenger details. It can include functionalities like searching for buses, booking and cancelling tickets, and (optionally) user accounts, reporting, and a menu-driven interface. This provides practice with C fundamentals while simulating a core reservation system.
